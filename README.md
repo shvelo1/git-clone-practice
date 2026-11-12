@@ -1,2 +1,2 @@
 # git-clone-practice
-kide shecvaleo :)
+interface-dan shecvaleo
